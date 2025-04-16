@@ -5,7 +5,7 @@ Tyrelock is the creation of hyprlock from my hands, it is made in a simple, mini
 # CONFIGURATION INSTALLATION
 
 The simple installation, which is just to do a git clone, and from there, the installation is on your own, although I warn you in advance, you can also access the folder here, and enter and Ctrl + C accompanied by Ctrol + V inside the hyprland, hyprlock configuration, the following route: 
-'''bash
+bash
 cd .config/hypr
 '''
 And there in that folder, there is the call for "hyprlock.conf", but it is also valid to create it if you can't find it with ls, in the following way:
