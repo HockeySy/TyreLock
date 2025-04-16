@@ -13,7 +13,7 @@ cd .config/hypr
 ```
 And there in that folder, there is the call for "hyprlock.conf", but it is also valid to create it if you can't find it with ls, in the following way:
 ```bash
-mkdir -p hyprlock
+nano hyprlock.conf
 ```
 Please note that you need to be in the folder with cd beforehand, otherwise you will have to enter your full path. The other way is with git clone:
 ```bash
